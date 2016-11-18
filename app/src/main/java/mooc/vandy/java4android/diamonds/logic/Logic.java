@@ -48,6 +48,67 @@ public class Logic
 
         // TODO -- add your code here
 
+        for(int i=0; i <= 2 * size ;i++)
+        {
+            for(int j=0; j <= 2 * size + 1; j++)
+            {
+                if((i==0&&j==0)||(i==2 * size  && j==0)||(i==0 && j==2 * size + 1)||(i==2 * size && j==2 * size + 1))
+                {
+                    mOut.print("+");
+                }
+                else if((i>0 && j==0) || (i!=2*size && j == 2 * size + 1))
+                {
+                    mOut.print("|");
+                }
+                else if(i==0 || i==2*size)
+                    mOut.print("-");
+                else if(size != 1 && i!=size)
+                {
+                    for(int k=0;k<size-1;k++)
+                    {
+                        mOut.print(" ");
+                        j++;
+                    }
+                    if (i==1)
+                    {
+                        mOut.print("/\\");
+                        j=j+1;
+                    }
+                    else if (i== 2*size-1)
+                    {
+                        mOut.print("\\/");
+                        j=j+1;
+                    }
+                    else
+                    {
+                        
+                    }
+                    for(int k=0;k<size-1;k++)
+                    {
+                        mOut.print(" ");
+                        j++;
+                    }
+                }
+                else if(i == size)
+                {
+                    mOut.print("<");
+                    j++;
+                    for (int k=0;k<2*size-2;k++)
+                    {
+                        if (i%2==0)
+                            mOut.print("-");
+                        else
+                            mOut.print("=");
+                        j++;
+                    }
+                    mOut.print(">");
+                }
+                else
+                    mOut.print(".");
+            }
+            mOut.println("");
+        }
+
     }
 
 }
