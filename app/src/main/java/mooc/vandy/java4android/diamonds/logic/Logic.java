@@ -64,29 +64,52 @@ public class Logic
                     mOut.print("-");
                 else if(size != 1 && i!=size)
                 {
-                    for(int k=0;k<size-1;k++)
-                    {
-                        mOut.print(" ");
+                    if(i <= size) {
+                        for(int k=0;k<size-i;k++)
+                        {
+                            mOut.print(" ");
+                            j++;
+                        }
+                        mOut.print("/");
                         j++;
-                    }
-                    if (i==1)
-                    {
-                        mOut.print("/\\");
-                        j=j+1;
-                    }
-                    else if (i== 2*size-1)
-                    {
-                        mOut.print("\\/");
-                        j=j+1;
+                        for (int k = 0; k < (i - 1) * 2; k++) {
+                            if (i % 2 == 0)
+                                mOut.print("-");
+                            else
+                                mOut.print("=");
+
+                            j++;
+                        }
+                        mOut.print("\\");
+                        for(int k=0;k<size-i;k++)
+                        {
+                            mOut.print(" ");
+                            j++;
+                        }
                     }
                     else
                     {
-                        
-                    }
-                    for(int k=0;k<size-1;k++)
-                    {
-                        mOut.print(" ");
+                        for(int k=0;k<i-size;k++)
+                        {
+                            mOut.print(" ");
+                            j++;
+                        }
+                        mOut.print("\\");
+                        for (int k = 0; k < (2*size - i -1)*2; k++) {
+                            if (i % 2 == 0)
+                                mOut.print("-");
+                            else
+                                mOut.print("=");
+
+                            j++;
+                        }
+                        mOut.print("/");
                         j++;
+                        for(int k=0;k<i-size;k++)
+                        {
+                            mOut.print(" ");
+                            j++;
+                        }
                     }
                 }
                 else if(i == size)
