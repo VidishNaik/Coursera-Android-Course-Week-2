@@ -83,27 +83,25 @@ public class Logic
     public double calculate(int size, int count) {
         // TODO -- add your code here
         double c=0;
+        long seed = 1;
+        int j;
         for(long i=1;i<=count;i++)
         {
-            if(findBirthday(i,size))
+            int[] bday = new int[365];
+            Random random = new Random(seed);
+            for(j=0;j<size;j++)
+            {
+                int rand = random.nextInt(365);
+                if(bday[rand] == 1)
+                    break;
+                else
+                    bday[rand] = 1;
+            }
+            if(j<size)
                 c++;
+            seed++;
         }
         return 100.0 * c/(double)count;
-    }
-
-    boolean findBirthday(long i,int size)
-    {
-        int[] bday = new int[365];
-        Random random = new Random(i);
-        for(int j=0;j<size;j++)
-        {
-            int rand = random.nextInt(365);
-            if(bday[rand] == 1)
-                return true;
-            else
-                bday[rand] = 1;
-        }
-        return false;
     }
     // TODO - add your code here
 
