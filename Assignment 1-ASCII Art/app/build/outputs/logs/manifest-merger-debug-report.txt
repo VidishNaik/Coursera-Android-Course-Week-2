@@ -1,61 +1,178 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.material:material:1.4.0] /home/vidish/.gradle/caches/transforms-3/0712116a5458438341f94de94e8b8bc7/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/vidish/.gradle/caches/transforms-3/b34cc0433cfbdb0eb38a7759e4f90906/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/vidish/.gradle/caches/transforms-3/c0a3e67a8ec20df50d7ec70e91054efc/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/vidish/.gradle/caches/transforms-3/823f98db1c3d9c45fdb57c6ee9bf2124/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/vidish/.gradle/caches/transforms-3/9eefd54b29e6b5d4a9261ab18e416130/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/vidish/.gradle/caches/transforms-3/3f67a59985f5467bf6d896612edafecb/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/vidish/.gradle/caches/transforms-3/90c75c0ddf56f7959f58c76d13135bd9/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vidish/.gradle/caches/transforms-3/924ea97ff0e96364afdb6e0909306266/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/vidish/.gradle/caches/transforms-3/2f306a7d23999224005926d96f2c07ac/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/vidish/.gradle/caches/transforms-3/84979a5a763d1e5e0faec29d618e4be7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/vidish/.gradle/caches/transforms-3/d6f43d3fce8e0c04c6124f0a72a70e70/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vidish/.gradle/caches/transforms-3/b857afdc47b07affe66ad0787ff8898e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vidish/.gradle/caches/transforms-3/441a39e3e6c041862a7fa9cf5fd0c5ed/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vidish/.gradle/caches/transforms-3/633c86b61bf55ee5f366deca74d14bbc/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vidish/.gradle/caches/transforms-3/8b5d69cb2a6e1629f42b49ca4f8693b1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/vidish/.gradle/caches/transforms-3/91d348ceb61ca3668a42cbeb4fd16a77/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/vidish/.gradle/caches/transforms-3/01d0c5965d3f59f89b729693f7c13d58/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/vidish/.gradle/caches/transforms-3/905bfb087946729ce9486c2042e7986f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /home/vidish/.gradle/caches/transforms-3/182799baaa922a1a2e55e6d971d5214c/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vidish/.gradle/caches/transforms-3/e5d65527964934574726ff657a1705c7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/vidish/.gradle/caches/transforms-3/d08abe9234cd9d9b0bcf8cc5a18d92f4/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/vidish/.gradle/caches/transforms-3/d049daea56b140466779d48bdd3f6d1d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/vidish/.gradle/caches/transforms-3/172879336952f8c79dfaada550bb5211/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/vidish/.gradle/caches/transforms-3/29e4bf11d06b637f26d51a8d23ea52bd/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vidish/.gradle/caches/transforms-3/3cb107bf751ad21d7907f4223a904884/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vidish/.gradle/caches/transforms-3/2028cdcefb2e3645fea88a3e0115f332/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/vidish/.gradle/caches/transforms-3/d653d6c092b491811ffc14397659103e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vidish/.gradle/caches/transforms-3/44a4f8c9390a5e8a96d45b5794adf77b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/vidish/.gradle/caches/transforms-3/ba1f891405d991df1dee729f86dc6778/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/vidish/.gradle/caches/transforms-3/47d21f64b86627830c487cfebdcf7596/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vidish/.gradle/caches/transforms-3/643dcff414f1c6f9ab18c8afb84f0242/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vidish/.gradle/caches/transforms-3/a7d5b3ed5cfe58ebdcab1fbd9bc9eaf7/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vidish/.gradle/caches/transforms-3/1768df8f25d2624e529709e8abc08b1e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/vidish/.gradle/caches/transforms-3/e320d64c96c34f7ef40dc166f5179e24/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/vidish/.gradle/caches/transforms-3/b734609b14fbff4f0c04a29dca468472/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:2:1-20:12
 	package
-		ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:3:5-47
-		INJECTED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
-		INJECTED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
-		INJECTED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
-		INJECTED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:5:5-18:19
-MERGED from [com.android.support:appcompat-v7:22.2.1] D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:22.2.1] D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:22.2.1] D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-	android:label
-		ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:8:9-41
+ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [com.google.android.material:material:1.4.0] /home/vidish/.gradle/caches/transforms-3/0712116a5458438341f94de94e8b8bc7/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/vidish/.gradle/caches/transforms-3/0712116a5458438341f94de94e8b8bc7/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/vidish/.gradle/caches/transforms-3/b34cc0433cfbdb0eb38a7759e4f90906/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/vidish/.gradle/caches/transforms-3/b34cc0433cfbdb0eb38a7759e4f90906/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /home/vidish/.gradle/caches/transforms-3/182799baaa922a1a2e55e6d971d5214c/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /home/vidish/.gradle/caches/transforms-3/182799baaa922a1a2e55e6d971d5214c/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vidish/.gradle/caches/transforms-3/2028cdcefb2e3645fea88a3e0115f332/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vidish/.gradle/caches/transforms-3/2028cdcefb2e3645fea88a3e0115f332/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /home/vidish/.gradle/caches/transforms-3/182799baaa922a1a2e55e6d971d5214c/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:9:9-35
-	android:allowBackup
-		ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:10:9-40
 activity#mooc.vandy.java4android.diamonds.ui.MainActivity
-ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:11:9-17:20
+ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:11:19-82
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:12:13-16:29
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:11:19-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:13:17-69
+ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:13:25-66
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml:15:27-74
 uses-sdk
-INJECTED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:22.2.1] D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:22.2.1] D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:22.2.1] D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
+INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] /home/vidish/.gradle/caches/transforms-3/0712116a5458438341f94de94e8b8bc7/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/vidish/.gradle/caches/transforms-3/0712116a5458438341f94de94e8b8bc7/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/vidish/.gradle/caches/transforms-3/b34cc0433cfbdb0eb38a7759e4f90906/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/vidish/.gradle/caches/transforms-3/b34cc0433cfbdb0eb38a7759e4f90906/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/vidish/.gradle/caches/transforms-3/c0a3e67a8ec20df50d7ec70e91054efc/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/vidish/.gradle/caches/transforms-3/c0a3e67a8ec20df50d7ec70e91054efc/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/vidish/.gradle/caches/transforms-3/823f98db1c3d9c45fdb57c6ee9bf2124/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/vidish/.gradle/caches/transforms-3/823f98db1c3d9c45fdb57c6ee9bf2124/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/vidish/.gradle/caches/transforms-3/9eefd54b29e6b5d4a9261ab18e416130/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/vidish/.gradle/caches/transforms-3/9eefd54b29e6b5d4a9261ab18e416130/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/vidish/.gradle/caches/transforms-3/3f67a59985f5467bf6d896612edafecb/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/vidish/.gradle/caches/transforms-3/3f67a59985f5467bf6d896612edafecb/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/vidish/.gradle/caches/transforms-3/90c75c0ddf56f7959f58c76d13135bd9/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/vidish/.gradle/caches/transforms-3/90c75c0ddf56f7959f58c76d13135bd9/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vidish/.gradle/caches/transforms-3/924ea97ff0e96364afdb6e0909306266/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vidish/.gradle/caches/transforms-3/924ea97ff0e96364afdb6e0909306266/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/vidish/.gradle/caches/transforms-3/2f306a7d23999224005926d96f2c07ac/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/vidish/.gradle/caches/transforms-3/2f306a7d23999224005926d96f2c07ac/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/vidish/.gradle/caches/transforms-3/84979a5a763d1e5e0faec29d618e4be7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/vidish/.gradle/caches/transforms-3/84979a5a763d1e5e0faec29d618e4be7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/vidish/.gradle/caches/transforms-3/d6f43d3fce8e0c04c6124f0a72a70e70/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/vidish/.gradle/caches/transforms-3/d6f43d3fce8e0c04c6124f0a72a70e70/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vidish/.gradle/caches/transforms-3/b857afdc47b07affe66ad0787ff8898e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vidish/.gradle/caches/transforms-3/b857afdc47b07affe66ad0787ff8898e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vidish/.gradle/caches/transforms-3/441a39e3e6c041862a7fa9cf5fd0c5ed/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vidish/.gradle/caches/transforms-3/441a39e3e6c041862a7fa9cf5fd0c5ed/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vidish/.gradle/caches/transforms-3/633c86b61bf55ee5f366deca74d14bbc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vidish/.gradle/caches/transforms-3/633c86b61bf55ee5f366deca74d14bbc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vidish/.gradle/caches/transforms-3/8b5d69cb2a6e1629f42b49ca4f8693b1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vidish/.gradle/caches/transforms-3/8b5d69cb2a6e1629f42b49ca4f8693b1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vidish/.gradle/caches/transforms-3/91d348ceb61ca3668a42cbeb4fd16a77/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vidish/.gradle/caches/transforms-3/91d348ceb61ca3668a42cbeb4fd16a77/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/vidish/.gradle/caches/transforms-3/01d0c5965d3f59f89b729693f7c13d58/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/vidish/.gradle/caches/transforms-3/01d0c5965d3f59f89b729693f7c13d58/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/vidish/.gradle/caches/transforms-3/905bfb087946729ce9486c2042e7986f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vidish/.gradle/caches/transforms-3/905bfb087946729ce9486c2042e7986f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /home/vidish/.gradle/caches/transforms-3/182799baaa922a1a2e55e6d971d5214c/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/vidish/.gradle/caches/transforms-3/182799baaa922a1a2e55e6d971d5214c/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vidish/.gradle/caches/transforms-3/e5d65527964934574726ff657a1705c7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vidish/.gradle/caches/transforms-3/e5d65527964934574726ff657a1705c7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/vidish/.gradle/caches/transforms-3/d08abe9234cd9d9b0bcf8cc5a18d92f4/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/vidish/.gradle/caches/transforms-3/d08abe9234cd9d9b0bcf8cc5a18d92f4/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/vidish/.gradle/caches/transforms-3/d049daea56b140466779d48bdd3f6d1d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/vidish/.gradle/caches/transforms-3/d049daea56b140466779d48bdd3f6d1d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/vidish/.gradle/caches/transforms-3/172879336952f8c79dfaada550bb5211/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/vidish/.gradle/caches/transforms-3/172879336952f8c79dfaada550bb5211/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/vidish/.gradle/caches/transforms-3/29e4bf11d06b637f26d51a8d23ea52bd/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/vidish/.gradle/caches/transforms-3/29e4bf11d06b637f26d51a8d23ea52bd/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vidish/.gradle/caches/transforms-3/3cb107bf751ad21d7907f4223a904884/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vidish/.gradle/caches/transforms-3/3cb107bf751ad21d7907f4223a904884/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vidish/.gradle/caches/transforms-3/2028cdcefb2e3645fea88a3e0115f332/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vidish/.gradle/caches/transforms-3/2028cdcefb2e3645fea88a3e0115f332/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/vidish/.gradle/caches/transforms-3/d653d6c092b491811ffc14397659103e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/vidish/.gradle/caches/transforms-3/d653d6c092b491811ffc14397659103e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vidish/.gradle/caches/transforms-3/44a4f8c9390a5e8a96d45b5794adf77b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vidish/.gradle/caches/transforms-3/44a4f8c9390a5e8a96d45b5794adf77b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/vidish/.gradle/caches/transforms-3/ba1f891405d991df1dee729f86dc6778/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/vidish/.gradle/caches/transforms-3/ba1f891405d991df1dee729f86dc6778/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/vidish/.gradle/caches/transforms-3/47d21f64b86627830c487cfebdcf7596/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/vidish/.gradle/caches/transforms-3/47d21f64b86627830c487cfebdcf7596/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vidish/.gradle/caches/transforms-3/643dcff414f1c6f9ab18c8afb84f0242/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vidish/.gradle/caches/transforms-3/643dcff414f1c6f9ab18c8afb84f0242/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vidish/.gradle/caches/transforms-3/a7d5b3ed5cfe58ebdcab1fbd9bc9eaf7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vidish/.gradle/caches/transforms-3/a7d5b3ed5cfe58ebdcab1fbd9bc9eaf7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vidish/.gradle/caches/transforms-3/1768df8f25d2624e529709e8abc08b1e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vidish/.gradle/caches/transforms-3/1768df8f25d2624e529709e8abc08b1e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vidish/.gradle/caches/transforms-3/e320d64c96c34f7ef40dc166f5179e24/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vidish/.gradle/caches/transforms-3/e320d64c96c34f7ef40dc166f5179e24/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/vidish/.gradle/caches/transforms-3/b734609b14fbff4f0c04a29dca468472/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/vidish/.gradle/caches/transforms-3/b734609b14fbff4f0c04a29dca468472/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
+INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
-		INJECTED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
-		INJECTED from D:\GAMES\Coursera Android\Week 2 Assignment 1\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
+		ADDED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vidish/AndroidStudioProjects/courseraweek2/Assignment 1-ASCII Art/app/src/main/AndroidManifest.xml

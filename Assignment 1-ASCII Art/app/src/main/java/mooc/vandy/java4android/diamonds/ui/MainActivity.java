@@ -1,6 +1,6 @@
 package mooc.vandy.java4android.diamonds.ui;
 
-import android.support.v7.app.AppCompatActivity;
+
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -8,6 +8,8 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import mooc.vandy.java4android.diamonds.R;
 
@@ -18,7 +20,7 @@ import mooc.vandy.java4android.diamonds.logic.LogicInterface;
  * The main UI of the App.
  */
 public class MainActivity 
-       extends AppCompatActivity 
+       extends AppCompatActivity
        implements OutputInterface {
     /**
      * String for LOGGING.
