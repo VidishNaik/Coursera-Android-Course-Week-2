@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Assignment 2-Birthday Problem.iml" filepath="$PROJECT_DIR$/Assignment 2-Birthday Problem.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Assignment_2-Birthday_Problem.iml" filepath="$PROJECT_DIR$/.idea/modules/Assignment_2-Birthday_Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Assignment_2-Birthday_Problem.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Assignment_2-Birthday_Problem.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Assignment_2-Birthday_Problem.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Assignment_2-Birthday_Problem.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Assignment_2-Birthday_Problem.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Assignment_2-Birthday_Problem.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Assignment_2-Birthday_Problem.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Assignment_2-Birthday_Problem.app.unitTest.iml" />
     </modules>
   </component>
 </project>
